@@ -4,4 +4,4 @@ experimental = true
 missing_tools = "always"
 
 [tools]
-uv = "latest"
+"github:astral-sh/uv" = "latest"
